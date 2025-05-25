@@ -14,5 +14,8 @@
     "start": "nodemon src/index.js"
   },
   "author": "sheikh rizwan",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.5.3"
+  }
 }
